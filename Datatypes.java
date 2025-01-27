@@ -45,9 +45,8 @@ public class Datatypes {
 
         //Non-Primitive data type: This datatypes refers to objects or array
         // 1. String:-Sequences of characters
-        
-
-
+        String collegeName = "Nepathya college";
+        System.out.println(collegeName);
         //2.Array: Collection of elements with same data types
         int[] arrayOfNumbers= {1,3,4,5};
         System.out.println(Arrays.toString(arrayOfNumbers));

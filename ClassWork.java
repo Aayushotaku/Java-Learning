@@ -6,13 +6,13 @@ public class ClassWork {
         int sum= numa+numb;
         System.out.println(sum);
         //subtract
-        float numc=12.22;
-        float numd=11.66;
+        float numc=12.22F;
+        float numd=11.66F;
         float sub= numc-numd;
         System.out.println(sub);
        //To print
-     String Name= "java is a programming language"
-       System.out.println(Name);
-       //Ascii
+     
+       System.out.println("Java is a programming language");
+       
     }
 }

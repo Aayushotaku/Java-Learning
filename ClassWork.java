@@ -11,8 +11,13 @@ public class ClassWork {
         float sub= numc-numd;
         System.out.println(sub);
        //To print
-     
        System.out.println("Java is a programming language");
+       //ASCII for 60
+       char charExample=60;
+       System.out.println(charExample);
+
+
+
        
     }
 }
